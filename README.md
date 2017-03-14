@@ -1,6 +1,6 @@
-Nick is an IT consultant at EY, managing large-scale project complexity for his clients. He is currently working with a national insurance provider to coordinate engineering, marketing, and operations teams in a firm-wide product transformation. 
+Nick is an IT consultant at EY, managing large-scale project complexity for his clients. He is currently working with a national insurance provider to coordinate engineering, marketing, and operations teams in a firm-wide product transformation.
 
-Inside and outside of his professional work, Nick uses data, code, and interactive design to convey information. 
+Inside and outside of his professional work, Nick uses data, code, and interactive design to convey information.
 
 ### scurve
 
@@ -12,16 +12,21 @@ A survival video game inspired by vampire mythology and naval medicine, written 
 
 A study in progress to represent the correlation between Twitter friends and followers for a given keyword. Built using d3.js.
 
+![friendTrend](https://raw.githubusercontent.com/nduckwiler/nduckwiler.github.io/master/assets/friendTrend.gif)
+
+
 ### tileClick
 
 A Lua utility app to build, save, and load tile maps. Used in the development of scurve.
+
+![TC-map](https://github.com/nduckwiler/tileClick/blob/master/assets/TC-map.png)
 
 ### Artwork
 
 ![reach](https://raw.githubusercontent.com/nduckwiler/artwork/master/reach.jpg)
 *Reach*
 <br>
-colored pencil on recycled brown paper, 2015 
+colored pencil on recycled brown paper, 2015
 <br><br>
 
 ![teapot](https://raw.githubusercontent.com/nduckwiler/artwork/master/teapot.jpg)
@@ -30,6 +35,7 @@ colored pencil on recycled brown paper, 2015
 pencil on paper, 2014
 <br><br>
 
+![heatRay](https://raw.githubusercontent.com/nduckwiler/nduckwiler.github.io/master/assets/heatRay.png)
 *The Heat Ray, Explained*
 <br>
 [Available online](https://drive.google.com/open?id=0B33mqnSd1JA9VWRnTl81TmJEeXc)
