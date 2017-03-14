@@ -1,7 +1,3 @@
-Nick is an IT consultant at EY, managing large-scale project complexity for his clients. He is currently working with a national insurance provider to coordinate engineering, marketing, and operations teams in a firm-wide product transformation.
-
-Inside and outside of his professional work, Nick uses data, code, and interactive design to convey information.
-
 ### Scurve
 
 A survival video game inspired by vampire mythology and naval medicine, written in Lua using the LÖVE framework.
