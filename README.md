@@ -19,7 +19,7 @@ A study in progress to represent the correlation between Twitter friends and fol
 
 A Lua utility app to build, save, and load tile maps. Used in the development of scurve.
 
-![TC-map](https://github.com/nduckwiler/tileClick/blob/master/assets/TC-map.png)
+![TC-map](https://raw.githubusercontent.com/nduckwiler/tileClick/master/assets/TC-map.png)
 
 ### Artwork
 
