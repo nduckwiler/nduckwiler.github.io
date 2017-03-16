@@ -1,6 +1,6 @@
 ### Scurve
 
-A survival video game inspired by vampire mythology and naval medicine, written in Lua using the LÖVE framework.
+A survival video game inspired by vampire mythology and naval medicine, written in Lua using the LÖVE framework. Download it [here](https://github.com/nduckwiler/app-bundles).
 
 ![screenShotStitched](https://raw.githubusercontent.com/nduckwiler/scurve/master/assets/screenShotStitched.png)
 
@@ -13,7 +13,7 @@ A study in progress to represent the correlation between Twitter friends and fol
 
 ### tileClick
 
-A Lua utility app to build, save, and load tile maps. Used in the development of the game Scurve.
+A Lua utility app to build, save, and load tile maps. Used in the development of the game Scurve. Get the source code [here](https://github.com/nduckwiler/tileClick).
 
 ![TC-map](https://raw.githubusercontent.com/nduckwiler/tileClick/master/assets/TC-map.png)
 
