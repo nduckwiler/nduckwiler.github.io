@@ -36,3 +36,9 @@ pencil on paper, 2014
 [View the full video here](https://drive.google.com/open?id=0B33mqnSd1JA9VWRnTl81TmJEeXc)
 
 ![heatRay](https://raw.githubusercontent.com/nduckwiler/nduckwiler.github.io/master/assets/heatRay.png)
+
+### *Self-Motivaiton*
+
+ink pen on paper, 2017
+
+![teapot](https://raw.githubusercontent.com/nduckwiler/artwork/master/self-motivation.jpg)
