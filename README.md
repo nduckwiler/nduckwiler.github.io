@@ -37,7 +37,7 @@ pencil on paper, 2014
 
 ![heatRay](https://raw.githubusercontent.com/nduckwiler/nduckwiler.github.io/master/assets/heatRay.png)
 
-### *Self-Motivaiton*
+### *Self-Motivation*
 
 ink pen on paper, 2017
 
