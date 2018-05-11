@@ -7,7 +7,7 @@ A survival video game inspired by vampire mythology and naval medicine, written 
 
 ### *Filmed Messages*
 
-A technical analysis of cinematic techniques in the 2006 video game Dead Rising. Read it [here](https://medium.com/@nduckwiler/filmed-messages-cinematic-techniques-in-dead-rising-2006-8cad86643d33).
+A technical analysis of cinematic techniques in the 2006 video game *Dead Rising*. Read it [here](https://medium.com/@nduckwiler/filmed-messages-cinematic-techniques-in-dead-rising-2006-8cad86643d33).
 
 ![deadRising](https://raw.githubusercontent.com/nduckwiler/nduckwiler.github.io/master/assets/deadRisingGraphic.png)
 
