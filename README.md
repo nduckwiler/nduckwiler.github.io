@@ -4,6 +4,14 @@ A survival video game inspired by vampire mythology and naval medicine, written 
 
 ![screenShotStitched](https://raw.githubusercontent.com/nduckwiler/scurve/master/assets/screenShotStitched.png)
 
+
+### *Filmed Messages*
+
+A technical analysis of cinematic techniques in the 2006 video game *Dead Rising*. Read it [here](https://medium.com/@nduckwiler/filmed-messages-cinematic-techniques-in-dead-rising-2006-8cad86643d33).
+
+![deadRising](https://raw.githubusercontent.com/nduckwiler/nduckwiler.github.io/master/assets/deadRisingGraphic.png)
+
+
 ### friendTrend
 
 A study in progress to represent the correlation between Twitter friends and followers for a given keyword. Built using d3.js.
