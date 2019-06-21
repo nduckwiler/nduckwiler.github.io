@@ -1,3 +1,9 @@
+### Stretch Dreams
+
+An endless series of sphincters. Like drawing on a piece of paper, this is an attempt at modeling three-dimensional space with two-dimensional forms. Built with d3.js. Explore it [here](https://www.nickduckwiler.com/stretch-dreams/).
+
+![stretch-dreams-demo](https://raw.githubusercontent.com/nduckwiler/scurve/master/assets/stretch-dreams-demo.gif)
+
 ### Scurve
 
 A survival video game inspired by vampire mythology and naval medicine, written in Lua using the LÖVE framework. Download it [here](https://github.com/nduckwiler/app-bundles).
