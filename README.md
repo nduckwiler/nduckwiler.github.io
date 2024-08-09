@@ -53,6 +53,6 @@ pencil on paper, 2014
 
 ### *Self-Motivation*
 
-ink pen on paper, 2017
+ink pen on paper, 2017 
 
 ![teapot](https://raw.githubusercontent.com/nduckwiler/artwork/master/self-motivation.jpg)
