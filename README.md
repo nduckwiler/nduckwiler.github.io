@@ -1,3 +1,9 @@
+### Polaroid Project
+
+An immersive experience encouraging embodied audience interaction with dance. Combines live webcam capture and recorded performance via p5.js. Dance along [here](https://www.nickduckwiler.com/polaroid-project/).
+
+![polaroidProject](https://raw.githubusercontent.com/nduckwiler/nduckwiler.github.io/master/assets/polaroidProject.webp)
+
 ### Stretch Dreams
 
 An endless series of sphincters. Like drawing on a piece of paper, this is an attempt at modeling three-dimensional space with two-dimensional forms. Built with d3.js. Explore it [here](https://www.nickduckwiler.com/stretch-dreams/).
@@ -53,6 +59,6 @@ pencil on paper, 2014
 
 ### *Self-Motivation*
 
-ink pen on paper, 2017 
+ink pen on paper, 2017
 
 ![teapot](https://raw.githubusercontent.com/nduckwiler/artwork/master/self-motivation.jpg)
